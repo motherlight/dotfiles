@@ -4,3 +4,6 @@
 [submodule ".vim/pack/plugins/start/ale"]
 	path = .vim/pack/plugins/start/ale
 	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/pack/plugins/start/PHP_CodeSniffer"]
+	path = .vim/pack/plugins/start/PHP_CodeSniffer
+	url = https://github.com/squizlabs/PHP_CodeSniffer.git
